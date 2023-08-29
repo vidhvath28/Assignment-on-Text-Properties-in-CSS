@@ -1,0 +1,18 @@
+/* Challenge 1 */
+#html {
+  text-align: center;
+  text-transform: uppercase;
+  line-height: 1.5;
+}
+
+/* Challenge 2 */
+#css {
+  text-align: justify;
+  color: red;
+}
+
+/* Challenge 3 */
+#js {
+  color: green;
+  text-transform: capitalize;
+}
